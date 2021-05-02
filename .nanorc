@@ -1,5 +1,10 @@
+set atblanks
 set autoindent
 set constantshow
 set linenumbers
+set morespace
 set mouse
+set nowrap
+set smooth
+set tabsize 4
 set tabstospaces
